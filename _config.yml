@@ -1,0 +1,12 @@
+title: "Angelo Apolo"
+description: "Procesos | Mejora Continua | Automatización | Data Analytics"
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+navbar-links:
+  About: "about.md"
+  Proyectos: "projects.md"
+  Blog: "blog.md"
+  Contacto: "contact.md"
